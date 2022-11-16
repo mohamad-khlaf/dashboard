@@ -1,0 +1,33 @@
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-image: url(../img/Gradient-4s-1280px.svg);
+}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+form {
+    margin: 100px auto;
+    width: 80%;
+    background: #eee;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    color: white;
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	margin: auto;
+	border-radius: 6px;
+	background: #007BFF;
+}
