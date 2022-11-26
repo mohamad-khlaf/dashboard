@@ -31,3 +31,14 @@ input[type="submit"] {
 	border-radius: 6px;
 	background: #007BFF;
 }
+
+.btn-logout {
+    background: #0b4339;
+    padding: 10 20px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 19px;
+    display: block;
+    width: fit-content;
+}

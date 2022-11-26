@@ -25,6 +25,10 @@ form {
     gap: 20px;
     text-align: center;
     border-radius: 5px;
+    width: fit-content;
+    padding: 20px 30px;
+    box-shadow: 10px 15px 10px #00000082;
+
 }
 
 input[type="submit"] {

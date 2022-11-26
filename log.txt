@@ -1,0 +1,24 @@
+[25-Nov-2022 12:32:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/almajded/public_html/support/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/almajded/public_html/support/index.php on line 20
+[25-Nov-2022 12:35:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/almajded/public_html/support/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/almajded/public_html/support/index.php on line 20
+[25-Nov-2022 12:36:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/almajded/public_html/support/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/almajded/public_html/support/login.php on line 17
+[25-Nov-2022 12:37:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/almajded/public_html/support/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/almajded/public_html/support/index.php on line 20
+[25-Nov-2022 12:43:52 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:44:02 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:45:17 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:50:32 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:52:22 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:53:21 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/upload.php:1) in /home3/almajded/public_html/support/upload.php on line 154
+[25-Nov-2022 12:54:26 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
+[25-Nov-2022 12:57:51 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/almajded/public_html/support/login.php:23) in /home3/almajded/public_html/support/login.php on line 25
